@@ -1,0 +1,20 @@
+/*----- Footer Outline -----*/
+
+ 
+.footer {
+    position: absolute;
+    bottom: -75%;
+    width:1000px;
+    right: 60px;
+    text-align: center;
+    margin:0px auto;
+    background: #303030;
+}
+ 
+.footer li {
+    margin:0px;
+    list-style:none;
+    font-family:'Ek Mukta';
+    transition:all linear 0.15s;
+    color:#919191;
+}
